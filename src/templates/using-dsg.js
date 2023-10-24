@@ -7,7 +7,7 @@ import Seo from "../components/seo"
 const UsingDSG = () => (
   <Layout>
     <h1>
-      Hello from a <b>DSG Page</b>
+      Hello from a <b>DSG Page 1</b>
     </h1>
     <p>This page is not created until requested by a user.</p>
     <p>
